@@ -1,4 +1,4 @@
-.container{
+body{
 	background-image: url("../img/bag.jpg");
 	background-repeat: no-repeat;
 	text-align: center;
@@ -8,5 +8,9 @@ header{
 }
 .content{
 	background-color: #ffffff;
-	text-align: left
+	text-align: left;
+	padding: 40px;
+}
+hr{
+	color:#eeeeee;
 }
