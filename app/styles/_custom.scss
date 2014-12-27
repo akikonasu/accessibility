@@ -5,22 +5,9 @@ body{
 }
 header{
 	background-color: #ffffff;
-	border-top-right-radius: 15px;
-	border-top-left-radius: 15px;
-	margin-top: 30px;
-}
-.btn5{
-	width: 90%;
-	margin-top: -30px;
-	margin-right: auto;
-	margin-left: auto;
-	.bg5{
-	background-color: #ffffff;		
-	border-top-right-radius:5px;
+	border-top-right-radius: 5px;
 	border-top-left-radius: 5px;
-	border-bottom-right-radius: 5px;
-	border-bottom-left-radius: 5px;
-	}
+	margin-top: 30px;
 }
 .slider{
 	width: 90%;
@@ -32,9 +19,6 @@ header{
 	background-color: #ffffff;
 	text-align: left;
 	padding: 100px;
-	hr{
-		color:#555555;
-	}
 }
 .picture_info{
 	float : left;
