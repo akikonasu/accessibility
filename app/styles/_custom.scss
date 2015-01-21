@@ -1,3 +1,20 @@
+.ana-1{
+	display: block;
+	background-color: #ffffff;
+	border-top-top-radius: 5px;
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+	border-top-bottom-radius: 5px;
+}
+.ana-2{
+	background-color: #ffffff;
+	border-top-top-radius: 5px;
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+	border-top-bottom-radius: 5px;
+	margin-top: 30px;
+	line-height: 2em;	
+}
 header{
 	background-color: #ffffff;
 	border-top-right-radius: 5px;
@@ -15,23 +32,13 @@ header{
 	text-align: left;
 	padding: 100px;
 }
-.picture_info{
-	float : left;
-	margin-top: 10px;	
-	margin-right: 10px;	
-	margin-left: 10px;	
-	margin-bottom: 10px;	
-}
-.img-responsive {
-  display: block;
-  width: 100%;
-  height: 200px;
-}
-img {
-  max-width: 100%;
-  height: auto;
-  border: 0;
-}
 .bg5{
-	line-height: 6em;	
+	line-height: 4em;	
+
+}
+.red{
+	color: #AC0043;
+}
+.olive{
+	color: #557C03;
 }
