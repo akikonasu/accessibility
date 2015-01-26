@@ -1,13 +1,13 @@
 .ana-1{
 	display: block;
-	background-color: #ffffff;
+	background-color: rgba( 255, 255, 255, 0.70 );
 	border-top-top-radius: 5px;
 	border-top-right-radius: 5px;
 	border-top-left-radius: 5px;
 	border-top-bottom-radius: 5px;
 }
 .ana-2{
-	background-color: #ffffff;
+	background-color: rgba( 255, 255, 255, 0.70 );
 	border-top-top-radius: 5px;
 	border-top-right-radius: 5px;
 	border-top-left-radius: 5px;
@@ -48,7 +48,7 @@
     &:hover,
     &:focus {
       color: #2E8FC7;
-      background-color: linear-gradient(#033A9C,#2E8FC7);
+      background: linear-gradient(#033A9C,#2E8FC7);
     }
   }
 
@@ -79,7 +79,7 @@
       &:hover,
       &:focus {
         color: blue;
-        background-color: linear-gradient(#f3f3f3,#ffffff);
+        background: linear-gradient(#f3f3f3,#ffffff);
       }
     }
   }
@@ -92,7 +92,7 @@
       background: linear-gradient(#f3f3f3,#ffffff);
     }
     .icon-bar {
-      background-color: #000000;
+      background: #000000;
     }
   }
 
@@ -107,7 +107,7 @@
       &,
       &:hover,
       &:focus {
-        background-color: linear-gradient(#f3f3f3,#ffffff);
+        background: linear-gradient(#f3f3f3,#ffffff);
         color: #000000;
       }
     }
