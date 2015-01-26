@@ -70,6 +70,7 @@ body {
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 400px) {
 body{
+	clear: both;
 	width: 100%;
   height: 200px;
   background: url(../images/bag.jpg) no-repeat center;
@@ -117,6 +118,7 @@ img {
 }
 @media screen and (min-width: 768px) {
 body{
+	clear: both;
 	width: 100%;
   height: 200px;
   background: url(../images/bag.jpg) no-repeat center;
@@ -162,7 +164,8 @@ img {
 }
 @media screen and (min-width: 1200px) {
 body{
-  background: url(../images/bag.jpg) no-repeat;
+	clear: both;
+  background: url(../images/bag.jpg) x-repeat center;
 }
 .ana-1{
 	margin-top: 100px;
