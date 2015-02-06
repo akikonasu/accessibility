@@ -11,11 +11,6 @@ $icon-font-path: "../bower_components/bootstrap-sass-official/assets/fonts/boots
   padding: 0.2em 0;
 }
 
-/* Space out content a bit */
-body {
-  padding-top: 0px;
-  padding-bottom: 0px;
-}
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
@@ -38,24 +33,11 @@ body {
   }
 }
 
-/* Custom page footer */
-.footer {
-  padding-top: 0px;
-}
 
 .container-narrow > hr {
   margin: 0;
 }
 
-/* Main marketing message and sign up button */
-.jumbotron {
-  text-align: center;
-  border-bottom: 1px solid #e5e5e5;
-  .btn {
-    font-size: 21px;
-    padding: 14px 24px;
-  }
-}
 
 /* Supporting marketing content */
 .marketing {
@@ -113,9 +95,9 @@ img {
   height: auto;
   border: 0;
 }
-.footer{
+footer{
 	width: 100%;
-  height: 200px;
+  height: 100%;
   background: url(../img/bag2.jpg) no-repeat center;
 	background-size: cover;
 }
@@ -164,16 +146,15 @@ img {
   height: auto;
   border: 0;
 }
-.footer{
+footer{
 	width: 100%;
-  height: 200px;
+  height: 100%;
   background: url(../img/bag2.jpg) no-repeat center;
 	background-size: cover;
 }
 @media screen and (min-width: 1200px) {
 .container{
-  background: url(../img/bag.jpg) x-repeat center;
-  margin-top: -20px;
+  background: url(../img/bag.jpg) x-repeat;
 }
 .ana-1{
 	margin-top: 100px;
@@ -224,7 +205,7 @@ img {
   height: auto;
   border: 0;
 }
-.footer{
-  background: url(../img/bag2.jpg) x-repeat center;
+footer{
+  background: url(../img/bag2.jpg) x-repeat;
 }
 

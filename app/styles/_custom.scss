@@ -1,3 +1,10 @@
+.container{
+	padding: 0;	
+}
+.contents{
+	padding-right: 15px;
+	padding-left: 15px;	
+}
 .ana-1{
 	display: block;
 	background-color: rgba( 255, 255, 255, 0.70 );
@@ -16,16 +23,8 @@
 	margin-bottom: 30px;
 	line-height: 2em;	
 }
-.slider{
-	width: 90%;
-	margin-right: auto;
-	margin-left: auto;
-	margin-top: 50px;	
-}
-.content{
-	background-color: #ffffff;
-	text-align: left;
-	padding: 100px;
+.explain{
+	text-align: center;	
 }
 .bg5{
 	line-height: 4em;	
