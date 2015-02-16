@@ -8,23 +8,34 @@
 .ana-1{
 	display: block;
 	background-color: rgba( 255, 255, 255, 0.70 );
-	border-top-top-radius: 5px;
 	border-top-right-radius: 5px;
 	border-top-left-radius: 5px;
-	border-top-bottom-radius: 5px;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
 }
 .ana-2{
 	background-color: rgba( 255, 255, 255, 0.70 );
-	border-top-top-radius: 5px;
 	border-top-right-radius: 5px;
 	border-top-left-radius: 5px;
-	border-top-bottom-radius: 5px;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
 	margin-top: 30px;
 	margin-bottom: 30px;
 	line-height: 2em;	
 }
 .explain{
 	text-align: center;	
+}
+h2{
+  display: block;
+  background: linear-gradient(#02389C,#1B67B5);
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+	padding: 15px;
+	color: white;
+	font-size: 24px;	
 }
 .bg5{
 	line-height: 4em;	
