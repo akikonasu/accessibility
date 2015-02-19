@@ -605,10 +605,14 @@ margin-bottom: 30px;
 }
 
 .rood{
-font-size: 0.9em;
-padding-bottom: 30px;
+	font-size: 0.9em;
+	clear: both;
 }
-
+.photo_r{
+	float: left;	
+	margin-bottom: 30px;
+}
 .adr{
-margin-bottom: 45px;
+	clear: both;
+	margin-bottom: 45px;
 }
