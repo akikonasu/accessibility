@@ -5,6 +5,9 @@
 	padding-right: 30px;
 	padding-left: 30px;	
 }
+.title{
+	float: left;	
+}
 .ana-1{
 	display: block;
 	background-color: rgba( 255, 255, 255, 0.70 );
@@ -14,6 +17,7 @@
 	border-bottom-left-radius: 5px;
 }
 .ana-2{
+	clear: both;
 	background-color: rgba( 255, 255, 255, 0.70 );
 	border-top-right-radius: 5px;
 	border-top-left-radius: 5px;
@@ -23,9 +27,48 @@
 	margin-bottom: 30px;
 	line-height: 2em;	
 }
-.explain{
-	text-align: center;	
-}
+
+.information-top h3 {
+	font-size: 2.5em;
+	line-height: 120%;
+	padding-top: 40px;
+	padding-left: 30px;
+	}
+
+.information-top h3 span.c01 {
+	font-size: 0.6em;
+	color: #557C03;
+	}
+
+.information-top h3 span.c02 {
+	color: #B5004F;
+	}
+
+.information-top h3 span.c03 {
+	color: #003399;
+	}
+
+.information-top p {
+	font-size: 1.1em;
+	line-height: 150%;
+	padding-top: 10px;
+	padding-left: 30px;
+	}
+
+.information-top p strong {
+	color: #003399;
+	}
+
+.information-top .left {
+	width: 600px;
+	float: left;
+	}
+
+.information-top .right {
+	padding: 0;
+	float: right;
+	width: 535px;
+	}
 h2{
   display: block;
   background: linear-gradient(#02389C,#1B67B5);
