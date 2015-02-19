@@ -68,12 +68,11 @@ $icon-font-path: "../bower_components/bootstrap-sass-official/assets/fonts/boots
 	text-align : center;
 }
 .information-top {
-	width: 100%;
-	border: 1px solid #CCCCCC;
-	background-image: url(../img/idx_information_bg.jpg);
-	background-repeat: x-repeat;
-	background-size: cover;
-	height: 457px;
+	padding: 16px;
+	border-top: 1px solid #CCCCCC;
+	border-right: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
 	}
 .img-responsive {
   display: block;
@@ -127,11 +126,11 @@ footer{
 }
 .information-top {
 	width: 100%;
+	height: 450px;
 	border: 1px solid #CCCCCC;
 	background-image: url(../img/idx_information_bg.jpg);
 	background-repeat: x-repeat;
 	background-size: cover;
-	height: 457px;
 	}
 
   /* Remove the padding we set earlier */
@@ -193,7 +192,6 @@ footer{
 	border: 1px solid #CCCCCC;
 	background-image: url(../img/idx_information_bg.jpg);
 	background-repeat: x-repeat;
-	height: 457px;
 	}
 
   /* Remove the padding we set earlier */

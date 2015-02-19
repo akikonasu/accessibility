@@ -31,8 +31,6 @@
 .information-top h3 {
 	font-size: 2.5em;
 	line-height: 120%;
-	padding-top: 40px;
-	padding-left: 30px;
 	}
 
 .information-top h3 span.c01 {
@@ -51,8 +49,6 @@
 .information-top p {
 	font-size: 1.1em;
 	line-height: 150%;
-	padding-top: 10px;
-	padding-left: 30px;
 	}
 
 .information-top p strong {
@@ -60,14 +56,13 @@
 	}
 
 .information-top .left {
-	width: 600px;
 	float: left;
+	margin-top: -15px;
 	}
 
 .information-top .right {
-	padding: 0;
 	float: right;
-	width: 535px;
+	margin-top: -15px;
 	}
 h2{
   display: block;
