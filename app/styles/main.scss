@@ -79,6 +79,9 @@ $icon-font-path: "../bower_components/bootstrap-sass-official/assets/fonts/boots
   width: 100%;
   height: 100%;
 }
+.btn1 {
+	width: 100%;
+}
   /* Remove the padding we set earlier */
   .header,
   .marketing,
@@ -132,6 +135,9 @@ footer{
 	background-repeat: x-repeat;
 	background-size: cover;
 	}
+.btn1 {
+	width: 50%;
+}
 
   /* Remove the padding we set earlier */
   .header,
@@ -193,6 +199,9 @@ footer{
 	background-image: url(../img/idx_information_bg.jpg);
 	background-repeat: x-repeat;
 	}
+.btn1 {
+	width: 50%;
+}
 
   /* Remove the padding we set earlier */
   .header,

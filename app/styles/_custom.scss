@@ -28,9 +28,13 @@
 	line-height: 2em;	
 }
 
+.information-top {
+	margin-left: 1px;
+	}
 .information-top h2 {
 	font-size: 2.5em;
 	line-height: 120%;
+	margin-left: 15px;
 	}
 
 .information-top h2 span.c01 {
@@ -49,6 +53,7 @@
 .information-top p {
 	font-size: 1.1em;
 	line-height: 150%;
+	margin-left: 15px;
 	}
 
 .information-top p strong {
@@ -496,7 +501,6 @@ h1{
 	text-align: center;
 	color: #FFFFFF;
 	margin-top: 20px;
-	width: 50%;
 	padding: 10px 20px;
 	border-radius: 8px;
 	background: linear-gradient(#98002A, #B1185C);
