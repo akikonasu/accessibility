@@ -486,7 +486,10 @@ h1{
 .data{
 	color: #557C03;
 }
-.profile h3, .txt h2{
+.thumbnail h3{
+	color: #AC0043;
+}
+.txt h2{
 	color: #AC0043;
 }
 .btn1 {
@@ -497,6 +500,10 @@ h1{
 	padding: 10px 20px;
 	border-radius: 8px;
 	background: linear-gradient(#98002A, #B1185C);
+	}
+.txt {
+	padding-bottom: 20px;
+	clear: both;
 	}
 #seminar .td01 {
 	color: #663300;
