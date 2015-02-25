@@ -1,5 +1,6 @@
 .container{
-	padding: 0;	
+	padding: 0;
+	font-family: 'Meiryo', 'メイリオ', Verdana, 'ＭＳ Ｐゴシック', sans-serif;
 }
 .contents{
 	padding-right: 30px;
@@ -490,6 +491,7 @@ h1{
 
 .data{
 	color: #557C03;
+	font-weight: bold;
 }
 .thumbnail h3{
 	color: #AC0043;
@@ -655,6 +657,7 @@ h1{
 .photo_r{
 	float: left;	
 	margin-bottom: 30px;
+	margin-right: 10px;
 }
 .adr{
 	clear: both;
