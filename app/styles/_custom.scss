@@ -480,6 +480,31 @@ h1{
     }
   }
 }
+
+//breadcrumb
+
+.breadcrumb {
+  padding: $breadcrumb-padding-vertical $breadcrumb-padding-horizontal;
+  margin-bottom: $line-height-computed;
+  list-style: none;
+	background: linear-gradient(#f3f3f3,#ffffff);
+  border-radius: $border-radius-base;
+
+  > li {
+    display: inline-block;
+
+    + li:before {
+      content: ">\00a0"; // Unicode space added since inline-block means non-collapsing white-space
+      padding: 0 5px;
+      color: $breadcrumb-color;
+    }
+  }
+
+  > .active {
+    color: $breadcrumb-active-color;
+  }
+}
+
 .page-top {
 	text-align: right;
 	padding-top: 30px;
