@@ -4,8 +4,8 @@
 	font-family: 'Hiragino Kaku Gothic ProN', Meiryo, 'MS PGothic', Sans-serif;
 	}
 .contents{
-	padding-right: 30px;
-	padding-left: 30px;	
+	padding-right: 60px;
+	padding-left: 60px;	
 }
 .title{
 	float: left;	
@@ -36,7 +36,7 @@
 .information-top h2 {
 	font-size: 2.5em;
 	line-height: 120%;
-	margin-left: 15px;
+	margin-left: 5px;
 	}
 
 .information-top h2 span.c01 {
@@ -55,7 +55,7 @@
 .information-top p {
 	font-size: 1.1em;
 	line-height: 150%;
-	margin-left: 15px;
+	margin-left: 5px;
 	}
 
 .information-top p strong {
@@ -64,12 +64,13 @@
 
 .information-top .left {
 	float: left;
-	margin-top: -15px;
+	margin-left: 0px;
 	}
 
 .information-top .right {
 	float: right;
 	margin-top: -15px;
+	margin-right: 0px;
 	}
 h1{
   display: block;
