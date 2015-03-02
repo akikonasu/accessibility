@@ -82,6 +82,9 @@ $icon-font-path: "../bower_components/bootstrap-sass-official/assets/fonts/boots
 .btn1 {
 	width: 100%;
 }
+.space{
+	margin-right: 0;
+}
   /* Remove the padding we set earlier */
   .header,
   .marketing,
@@ -137,6 +140,9 @@ footer{
 	}
 .btn1 {
 	width: 50%;
+}
+.space{
+	margin-right: 0px;
 }
 
   /* Remove the padding we set earlier */
@@ -201,6 +207,9 @@ footer{
 	}
 .btn1 {
 	width: 50%;
+}
+.space{
+	margin-right: 80px;
 }
 
   /* Remove the padding we set earlier */
