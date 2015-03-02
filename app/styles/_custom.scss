@@ -100,7 +100,7 @@ h2, h3, h4{
 }
 .sponsor{
 	border:  15px solid #e1e1e1;
-	margin-top: 80px;
+	margin-top: 30px;
   padding: 15px;
   text-align: center;	
 }
@@ -524,10 +524,11 @@ h2, h3, h4{
 .page-top {
 	text-align: right;
 	padding-top: 30px;
+	margin-bottm:0;
 	clear: both;
 }
-.footer{
-	margin: 0;
+footer{
+	margin-top: -20px;
 	padding: 0;	
 }
 
@@ -559,7 +560,7 @@ h2, h3, h4{
 	}
 
 #seminar .td03 {
-	line-height: 300%;
+	line-height: 120%;
 	vertical-align: middle;
 	width: 34%;
 	}
@@ -573,14 +574,14 @@ h2, h3, h4{
 .seminar-b01 {
 	background-color: #FFFFA6;
 	padding: 5px 5px;
-	margin: 2px 2px;
+	margin: 5px 5px;
 	width: auto;
   float: left;
 	}
 
 .seminar-b02 {
 	padding: 5px 5px;
-	margin: 2px 2px;
+	margin: 5px 5px;
 	background-color: #BAEFE3;
 	width: auto;
   float: left;
@@ -589,7 +590,7 @@ h2, h3, h4{
 .seminar-b03 {
 	background-color: #F1EFC2;
 	padding: 5px 5px;
-	margin: 2px 2px;
+	margin: 5px 5px;
 	width: auto;
   float: left;
 	}
@@ -597,23 +598,9 @@ h2, h3, h4{
 .seminar-b04 {
 	background-color: #FAE3C5;
 	padding: 5px 5px;
-	margin: 2px 2px;
+	margin: 5px 5px;
 	width: auto;
   float: left;
-	}
-.btn {
-	text-align: center;
-	color: #FFFFFF;
-	margin-top: 20px;
-	width: 50%;
-	padding: 10px 20px;
-	border-radius: 8px;
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(1.00, #98002A), color-stop(0, #B1185C));
-	background: -webkit-linear-gradient(top, #98002A 0, #B1185C 100%);
-	background: -moz-linear-gradient(top, #98002A 0, #B1185C 100%);
-	background: -o-linear-gradient(top, #98002A 0, #B1185C 100%);
-	background: -ms-linear-gradient(top, #98002A 0, #B1185C 100%);
-	background: linear-gradient(top bottom, #98002A 0, #B1185C 100%);
 	}
 
 /* exhibition.html */
@@ -636,7 +623,7 @@ h2, h3, h4{
 	}
 
 #exhibition .td04 {
-	line-height: 300%;
+	line-height: 120%;
 	vertical-align: middle;
 	width: 20%;
 	}
@@ -644,14 +631,14 @@ h2, h3, h4{
 #exhibition .td04 span {
 	font-size: 1em;
 	margin-right: 12px;
-	padding: 5px 10px;
+	padding: 10px 10px;
 	border-radius: 8px;
 	}
 
 #exhibition .td04 .exhibition-b01 {
 	background-color: #FADCEA;
 	padding: 5px 5px;
-	margin: 2px 2px;
+	margin: 5px 5px;
 	width: auto;
   float: left;
 	}
@@ -659,7 +646,7 @@ h2, h3, h4{
 #exhibition .td04 .exhibition-b02 {
 	background-color: #EAEFA3;
 	padding: 5px 5px;
-	margin: 2px 2px;
+	margin: 5px 5px;
 	width: auto;
   float: left;
 	}
@@ -667,7 +654,7 @@ h2, h3, h4{
 #exhibition .td04 .exhibition-b03 {
 	background-color: #E2D7E8;
 	padding: 5px 5px;
-	margin: 2px 2px;
+	margin: 5px 5px;
 	width: auto;
   float: left;
 	}
@@ -675,7 +662,7 @@ h2, h3, h4{
 #exhibition .td04 .exhibition-b04 {
 	background-color: #FAE3C5;
 	padding: 5px 5px;
-	margin: 2px 2px;
+	margin: 4px 4px;
 	width: auto;
   float: left;
 	}
@@ -683,7 +670,7 @@ h2, h3, h4{
 #exhibition .td04 .exhibition-b05 {
 	background-color: #BAEFE3;
 	padding: 5px 5px;
-	margin: 2px 2px;
+	margin: 5px 5px;
 	width: auto;
   float: left;
 	}
@@ -691,7 +678,7 @@ h2, h3, h4{
 #exhibition table .td04 .exhibition-b06 {
 	background-color: #FFFFA6;
 	padding: 5px 5px;
-	margin: 2px 2px;
+	margin: 5px 5px;
 	width: auto;
   float: left;
 	}
@@ -699,7 +686,7 @@ h2, h3, h4{
 #exhibition .td04 .exhibition-b07 {
 	background-color: #FCC589;
 	padding: 5px 5px;
-	margin: 2px 2px;
+	margin: 5px 5px;
 	width: auto;
   float: left;
 	}
