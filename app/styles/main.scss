@@ -114,6 +114,7 @@ footer{
   background: url(../img/glo_bg_bottom.jpg) no-repeat center;
 	background-size: cover;
 }
+}
 @media screen and (min-width: 737px) {
 .container{
 	width: 100%;
@@ -162,7 +163,6 @@ footer{
   .jumbotron {
     border-bottom: 0;
   }
-}
 img {
   max-width: 100%;
   height: auto;
@@ -173,6 +173,7 @@ footer{
   height: 100%;
   background: url(../img/glo_bg_bottom.jpg) no-repeat center;
 	background-size: cover;
+}
 }
 @media screen and (min-width: 1265px) {
 .container{
@@ -229,7 +230,7 @@ footer{
   .jumbotron {
     border-bottom: 0;
   }
-}
+
 .img-responsive {
   display: block;
   width: 100%;
@@ -242,4 +243,5 @@ img {
 }
 footer{
   background: url(../img/glo_bg_bottom.jpg) x-repeat;
+}
 }
